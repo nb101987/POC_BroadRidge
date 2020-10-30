@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Oct 30 18:30:21 EDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0175-7ba2-1472-00000cb09990 
+on database directory /home/nb-linux/PycharmProjects/POC_BroadRidge/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@6885c91e 
+Loaded from file:/home/nb-linux/PycharmProjects/POC_BroadRidge/venv/lib/python2.7/site-packages/pyspark/jars/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_272-8u272-b10-0ubuntu1~18.04-b10
+user.dir=/home/nb-linux/PycharmProjects/POC_BroadRidge
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-52-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
